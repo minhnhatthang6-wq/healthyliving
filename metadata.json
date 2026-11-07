@@ -1,0 +1,6 @@
+{
+  "name": "LIFE OS - Personal Life Management",
+  "description": "Design Your Life. Upgrade Yourself. The next generation personal life operating system combining health, nutrition, goals, focus, finance, and gamified skill tree.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
